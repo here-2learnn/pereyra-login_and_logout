@@ -16,7 +16,7 @@ export default function Home() {
       <Card>
         <CardContent className="p-6 space-y-4">
           <h2 className="text-2xl font-semibold">
-            Hi, I'm [Chloe Pereyra]!
+            Hi, I'm Chloe Pereyra!
           </h2>
 
           <p className="text-muted-foreground">
@@ -44,7 +44,7 @@ export default function Home() {
       </Card>
 
       <p className="text-sm text-muted-foreground">
-        © 2026 [Chloe Joy P. Pereyra]
+        © 2026 Chloe Joy P. Pereyra
       </p>
     </div>
   );
